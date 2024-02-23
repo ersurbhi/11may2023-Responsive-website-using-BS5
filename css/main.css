@@ -1,0 +1,20 @@
+.s_cont{
+    border: 2px dashed red;
+}
+header{
+    height: 110px;
+    border: 2px dashed blue;
+    background-color: #9933cc;
+}
+main{
+    height: 1200px;
+    border: 2px dashed orange;
+}
+footer{
+    height: 69px;
+    border: 2px dashed blue;
+    background-color: #0099cc;
+}
+.s_tbdr{/*tbdr= temporary border*/
+    border: 1px dashed #000;
+}
